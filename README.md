@@ -1,5 +1,7 @@
 # esp32-qrcode
 > esp32 qrcode sample
+>
+> esp32显示二维码
 
 
 
