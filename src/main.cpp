@@ -14,6 +14,7 @@ void setup()
   qrcode.init();
   // create qrcode
   qrcode.create("https://www.hifor.net");
+  Serial.begin(115200);
 }
 
 void loop()
